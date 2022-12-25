@@ -1,0 +1,31 @@
+_id: req_ecd67bfd53f443f8951d6d09ed95bec3
+type: Request
+parentId: fld_f3ca2023a7d54c3a948f79af5c78235a
+modified: 1672008085135
+created: 1672007779970
+url: "{{ _.base_url }}/api/1.0/users"
+name: Create user
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Jordan ubilla",
+    	"username": "jordan noah",
+    	"email": "sanshiatomico@gmail.com",
+    	"password": "2352169As"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1672007217700
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

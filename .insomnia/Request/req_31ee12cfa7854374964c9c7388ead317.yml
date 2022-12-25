@@ -1,0 +1,21 @@
+_id: req_31ee12cfa7854374964c9c7388ead317
+type: Request
+parentId: fld_f3ca2023a7d54c3a948f79af5c78235a
+modified: 1672008197173
+created: 1672007217800
+url: "{{ _.base_url }}/api/1.0/users/5e7898ee-9e61-454a-b4c6-5c7f2cf756b8"
+name: Get user by uuid
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1672007217800
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
