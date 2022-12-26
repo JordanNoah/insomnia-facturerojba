@@ -1,0 +1,21 @@
+_id: req_7b65b939282041e3a2b96d6d3734abb1
+type: Request
+parentId: fld_e123b8cbd8084b4cb9c67afbec083bdb
+modified: 1672090868562
+created: 1672090228964
+url: "{{ _.base_url }}/api/1.0/institutions/"
+name: Get all institutions
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1672090228964
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
