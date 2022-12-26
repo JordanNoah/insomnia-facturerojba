@@ -1,0 +1,28 @@
+_id: req_47e251da2f7d4d148b75a504084963b0
+type: Request
+parentId: fld_60db276d73bd4a56bedb4c279efbe3f9
+modified: 1672011658803
+created: 1672011536598
+url: "{{ _.base_url }}/api/1.0/recoverPassword"
+name: create recover password
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"email":"sanshiatomico@gmail.com"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1672011536598
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

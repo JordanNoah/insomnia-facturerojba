@@ -1,0 +1,10 @@
+_id: fld_0da777e070344b66be38f1cc579b56a4
+type: RequestGroup
+parentId: wrk_583048d06264427da58b27ed25b7ce3f
+modified: 1672009696292
+created: 1672009696292
+name: Global
+description: ""
+environment: {}
+environmentPropertyOrder: null
+metaSortKey: -1672009696292

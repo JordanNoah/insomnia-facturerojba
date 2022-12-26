@@ -1,0 +1,21 @@
+_id: req_29d529b70a6b4186aad39ecd07a99734
+type: Request
+parentId: fld_0da777e070344b66be38f1cc579b56a4
+modified: 1672009727242
+created: 1672009698409
+url: "{{ _.base_url }}/api/1.0/services"
+name: Get all Services
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1672009698409
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

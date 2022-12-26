@@ -1,0 +1,21 @@
+_id: req_cdfa08bf5103450dbe148aff8de2e099
+type: Request
+parentId: fld_60db276d73bd4a56bedb4c279efbe3f9
+modified: 1672012142634
+created: 1672012077055
+url: "{{ _.base_url }}/api/1.0/recoverPassword/"
+name: get all recover password
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1672011536698
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

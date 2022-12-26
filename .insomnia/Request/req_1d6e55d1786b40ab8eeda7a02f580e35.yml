@@ -1,0 +1,21 @@
+_id: req_1d6e55d1786b40ab8eeda7a02f580e35
+type: Request
+parentId: fld_60db276d73bd4a56bedb4c279efbe3f9
+modified: 1672012626809
+created: 1672012493346
+url: "{{ _.base_url }}/api/1.0/recoverPassword/f29cbc10-9bf7-48b4-a9f0-f1b19afd7eab"
+name: reset password by uuid
+description: ""
+method: PATCH
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1672011536623
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
