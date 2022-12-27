@@ -1,15 +1,22 @@
 _id: req_1d6e55d1786b40ab8eeda7a02f580e35
 type: Request
 parentId: fld_60db276d73bd4a56bedb4c279efbe3f9
-modified: 1672012626809
+modified: 1672182955938
 created: 1672012493346
-url: "{{ _.base_url }}/api/1.0/recoverPassword/f29cbc10-9bf7-48b4-a9f0-f1b19afd7eab"
+url: "{{ _.base_url }}/api/1.0/recoverPassword/d3da161e-f18d-4ab1-ad0a-26fe1ad954e8"
 name: reset password by uuid
 description: ""
 method: PATCH
-body: {}
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"password":"nuevaclave"
+    }
 parameters: []
-headers: []
+headers:
+  - name: Content-Type
+    value: application/json
 authentication: {}
 metaSortKey: -1672011536623
 isPrivate: false
