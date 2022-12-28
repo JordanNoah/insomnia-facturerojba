@@ -1,0 +1,29 @@
+_id: req_4b8348e1a45d4349a5aa90796ad1a715
+type: Request
+parentId: fld_51915e906d904ae29403b172cc9a21aa
+modified: 1672186982596
+created: 1672186325483
+url: "{{ _.base_url }}/api/1.0/login/"
+name: login
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"email":"sanshiatomico@gmail.com",
+    	"password":"2352169As"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1672186325483
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
