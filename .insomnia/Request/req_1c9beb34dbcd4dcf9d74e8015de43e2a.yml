@@ -1,0 +1,26 @@
+_id: req_1c9beb34dbcd4dcf9d74e8015de43e2a
+type: Request
+parentId: fld_e123b8cbd8084b4cb9c67afbec083bdb
+modified: 1672196615325
+created: 1672196116575
+url: "{{ _.base_url }}/api/1.0/institutions"
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |
+    {"ruc":"0393939393","tradename":"Pollos Hermanos","businessName":"Meta"}
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1672196116575
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
