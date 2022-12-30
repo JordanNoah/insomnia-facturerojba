@@ -1,30 +1,24 @@
-_id: req_1c9beb34dbcd4dcf9d74e8015de43e2a
+_id: req_1435fe3a10ef419eadb3fd1319e5b47c
 type: Request
 parentId: fld_e123b8cbd8084b4cb9c67afbec083bdb
-modified: 1672197278605
-created: 1672196116575
-url: "{{ _.base_url }}/api/1.0/institutions"
-name: create institution
+modified: 1672366443392
+created: 1672365021689
+url: "{{ _.base_url }}/api/1.0/institutions/27fc208c-2564-4a18-a024-3a0f92f67df7"
+name: update institution
 description: ""
-method: POST
+method: PATCH
 body:
   mimeType: application/json
   text: |-
     {
-    	"ruc": "0393939393",
-    	"tradename": "Pollos Hermanos",
-    	"businessName": "Meta"
+    	"businessName": "Prueba"
     }
-parameters:
-  - id: pair_44e60361a2234d7daf69d70d905194bc
-    name: ""
-    value: ""
-    description: ""
+parameters: []
 headers:
   - name: Content-Type
     value: application/json
 authentication: {}
-metaSortKey: -1672196116575
+metaSortKey: -1672365021689
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
