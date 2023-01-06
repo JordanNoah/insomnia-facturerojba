@@ -1,0 +1,21 @@
+_id: req_fdc964033b494432b82fcba3ea2b48a9
+type: Request
+parentId: fld_8663ab6469414d1f9ba8ba96b720da41
+modified: 1672695904719
+created: 1672617346605
+url: "{{ _.base_url }}/api/1.0/account/45066d20-e2bb-48ee-ba18-1b0a1506d92b"
+name: get account institutuin and role
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1672617346605
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

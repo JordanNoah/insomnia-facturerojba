@@ -1,9 +1,9 @@
 _id: req_4b8348e1a45d4349a5aa90796ad1a715
 type: Request
 parentId: fld_51915e906d904ae29403b172cc9a21aa
-modified: 1672186982596
+modified: 1672963422470
 created: 1672186325483
-url: "{{ _.base_url }}/api/1.0/login/"
+url: "{{ _.base_url }}/api/1.0/login"
 name: login
 description: ""
 method: POST

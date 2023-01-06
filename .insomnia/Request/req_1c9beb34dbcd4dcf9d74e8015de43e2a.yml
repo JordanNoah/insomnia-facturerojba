@@ -1,7 +1,7 @@
 _id: req_1c9beb34dbcd4dcf9d74e8015de43e2a
 type: Request
 parentId: fld_e123b8cbd8084b4cb9c67afbec083bdb
-modified: 1672197278605
+modified: 1672695791787
 created: 1672196116575
 url: "{{ _.base_url }}/api/1.0/institutions"
 name: create institution
@@ -11,9 +11,9 @@ body:
   mimeType: application/json
   text: |-
     {
-    	"ruc": "0393939393",
-    	"tradename": "Pollos Hermanos",
-    	"businessName": "Meta"
+    	"tradeName": "Pollosaqqq Hermanos",
+    	"businessName": "Metaaq",
+    	"user": "45066d20-e2bb-48ee-ba18-1b0a1506d92b"
     }
 parameters:
   - id: pair_44e60361a2234d7daf69d70d905194bc
