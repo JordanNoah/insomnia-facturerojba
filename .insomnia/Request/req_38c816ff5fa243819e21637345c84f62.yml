@@ -1,21 +1,17 @@
-_id: req_d8d0903ec0c048daaf08fb6b4e71ce6b
+_id: req_38c816ff5fa243819e21637345c84f62
 type: Request
-parentId: fld_e123b8cbd8084b4cb9c67afbec083bdb
-modified: 1673491189738
-created: 1672971459715
+parentId: fld_d31ea5a5f45442149cd95447d2b0fb32
+modified: 1673491182607
+created: 1673491148155
 url: "{{ _.base_url }}/api/1.0/institutions/"
-name: delete Institutions
+name: delete client
 description: ""
 method: DELETE
-body:
-  mimeType: application/json
-  text: ""
+body: {}
 parameters: []
-headers:
-  - name: Content-Type
-    value: application/json
+headers: []
 authentication: {}
-metaSortKey: -1672971459715
+metaSortKey: -1673490384547
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
