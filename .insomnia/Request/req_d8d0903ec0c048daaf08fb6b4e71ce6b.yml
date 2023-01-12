@@ -1,24 +1,21 @@
-_id: req_1435fe3a10ef419eadb3fd1319e5b47c
+_id: req_d8d0903ec0c048daaf08fb6b4e71ce6b
 type: Request
 parentId: fld_e123b8cbd8084b4cb9c67afbec083bdb
-modified: 1672971722592
-created: 1672365021689
+modified: 1672972573536
+created: 1672971459715
 url: "{{ _.base_url }}/api/1.0/institutions/6e3e2759-a7b7-4479-97a6-32cbb4e1c792"
-name: update institution
+name: delete Institutions
 description: ""
-method: PATCH
+method: DELETE
 body:
   mimeType: application/json
-  text: |-
-    {
-    	"businessName": "Prueba"
-    }
+  text: ""
 parameters: []
 headers:
   - name: Content-Type
     value: application/json
 authentication: {}
-metaSortKey: -1672365021689
+metaSortKey: -1672971459715
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

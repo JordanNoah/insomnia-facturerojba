@@ -1,17 +1,17 @@
-_id: req_fdc964033b494432b82fcba3ea2b48a9
+_id: req_5c2a09c33d7444a5a59cf88260cd5ebf
 type: Request
-parentId: fld_8663ab6469414d1f9ba8ba96b720da41
-modified: 1672973396383
-created: 1672617346605
-url: "{{ _.base_url }}/api/1.0/account/0f9d5259-12a4-4c4b-87d4-80b8f3cb15f8"
-name: get account institutuin and role
+parentId: fld_d31ea5a5f45442149cd95447d2b0fb32
+modified: 1673490496711
+created: 1673490384497
+url: "{{ _.base_url }}/api/1.0/clients/"
+name: get all Clients
 description: ""
 method: GET
 body: {}
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1672617346605
+metaSortKey: -1673490384497
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
