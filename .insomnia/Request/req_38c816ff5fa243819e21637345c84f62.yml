@@ -1,9 +1,9 @@
 _id: req_38c816ff5fa243819e21637345c84f62
 type: Request
 parentId: fld_d31ea5a5f45442149cd95447d2b0fb32
-modified: 1673491182607
+modified: 1673571695043
 created: 1673491148155
-url: "{{ _.base_url }}/api/1.0/institutions/"
+url: "{{ _.base_url }}/api/1.0/clients/4182a6fa-1199-4084-b3ae-2ad00478fbdf"
 name: delete client
 description: ""
 method: DELETE

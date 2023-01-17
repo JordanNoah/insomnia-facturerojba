@@ -1,26 +1,25 @@
-_id: req_1435fe3a10ef419eadb3fd1319e5b47c
+_id: req_29fb7966019c4a72acd1af4aa0c4e07a
 type: Request
-parentId: fld_e123b8cbd8084b4cb9c67afbec083bdb
-modified: 1673926638876
-created: 1672365021689
-url: "{{ _.base_url }}/api/1.0/institutions/8c2eab04-6b47-4aa1-aa8c-f2a18564bf5b"
-name: update institution
+parentId: fld_d31ea5a5f45442149cd95447d2b0fb32
+modified: 1673927615288
+created: 1673570076533
+url: "{{ _.base_url }}/api/1.0/clients/4c50fd41-15e3-4c00-bb18-385c9be37d06"
+name: update client
 description: ""
 method: PATCH
 body:
   mimeType: application/json
-  text: |+
+  text: |-
     {
-    	"ruc": "3123123123213"
+    	"firtsname": "Bryan Smith"
+    	
     }
-
-
 parameters: []
 headers:
   - name: Content-Type
     value: application/json
 authentication: {}
-metaSortKey: -1672365021689
+metaSortKey: -1673570076533
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

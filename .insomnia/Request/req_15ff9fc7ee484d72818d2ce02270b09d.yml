@@ -1,0 +1,36 @@
+_id: req_15ff9fc7ee484d72818d2ce02270b09d
+type: Request
+parentId: fld_d31ea5a5f45442149cd95447d2b0fb32
+modified: 1673571361891
+created: 1673567077213
+url: "{{ _.base_url }}/api/1.0/clients"
+name: create clients
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |+
+    {
+    	"firtsname":"Angelly",
+    	"surname":"Benavides",
+    	"email":"aaaa@hotmail.com",
+    	"identificationNumber":"22222222",
+    	"direction":"Florida norte",
+    	"phoneNumber":"0922362595",
+    	"institution": "8c2eab04-6b47-4aa1-aa8c-f2a18564bf5b"
+    	
+    }
+
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1673490384522
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

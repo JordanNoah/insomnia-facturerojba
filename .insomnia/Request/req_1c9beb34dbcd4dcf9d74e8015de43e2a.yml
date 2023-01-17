@@ -1,7 +1,7 @@
 _id: req_1c9beb34dbcd4dcf9d74e8015de43e2a
 type: Request
 parentId: fld_e123b8cbd8084b4cb9c67afbec083bdb
-modified: 1672973366805
+modified: 1673567401225
 created: 1672196116575
 url: "{{ _.base_url }}/api/1.0/institutions"
 name: create institution
@@ -13,7 +13,7 @@ body:
     {
     	"tradeName": "Pollosaqqq Hermanos",
     	"businessName": "Metaaq",
-    	"user": "0f9d5259-12a4-4c4b-87d4-80b8f3cb15f8"
+    	"user": "a53f82f7-f4a4-4855-9d1c-2d3d66124ca4"
     }
 parameters:
   - id: pair_44e60361a2234d7daf69d70d905194bc
