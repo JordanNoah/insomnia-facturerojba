@@ -1,7 +1,7 @@
 _id: req_29fb7966019c4a72acd1af4aa0c4e07a
 type: Request
 parentId: fld_d31ea5a5f45442149cd95447d2b0fb32
-modified: 1673927615288
+modified: 1673928067836
 created: 1673570076533
 url: "{{ _.base_url }}/api/1.0/clients/4c50fd41-15e3-4c00-bb18-385c9be37d06"
 name: update client
@@ -11,7 +11,7 @@ body:
   mimeType: application/json
   text: |-
     {
-    	"firtsname": "Bryan Smith"
+    	"identificationNumber": "09223625as95"
     	
     }
 parameters: []
